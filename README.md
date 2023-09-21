@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Full Stack developer from India.<br>👯 I’m looking to collaborate on MERN projects.<br>🌱 I’m currently learning TYPESCRIPT.<br>I practice DSA in JAVA<br>
+🔭 I'm a Full Stack developer from India.<br>👯 I’m looking to collaborate on MERN projects.<br>🌱 I’m currently learning CLOUD.<br>✅ I practice DSA in JAVA<br>
 
 
 ## 🌐 Socials:
